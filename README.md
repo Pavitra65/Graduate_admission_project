@@ -8,7 +8,6 @@ Welcome to my GitHub repository, which highlights a major project I worked on wh
 I spent a semester studying into an important problem in the field of data science as part of the university course "Hands-On Machine Learning and Data Science": expectations for postgraduate admissions chances at US universities.
 
 ### Workflow:
-- **Data Collection**
 - **Data Preprocessing**
 - **Model evaluation**
 - **Fine Tuning**
