@@ -2,13 +2,13 @@
 
 
 ### Introduction:
-Welcome to my GitHub repository, which highlights a major project I worked on while pursuing a data science bachelor's degree. I'll give an outline of the project's goals and methods, as well as the techniques and realizations, in the sections that follow.
+This repository presents a significant project completed as part of a data science bachelor's degree program. The following sections outline the project’s objectives, methodology, and key findings.
 
 ### Project Outline:
-I spent a semester studying into an important problem in the field of data science as part of the university course "Hands-On Machine Learning and Data Science": expectations for postgraduate admissions chances at US universities.
+As part of the "Hands-On Machine Learning and Data Science" course, this project focused on predicting postgraduate admission probabilities at US universities. Using machine learning techniques, the project aimed to develop an accurate model to forecast admission outcomes based on various applicant data.
 
 ### Workflow:
-- **Data Preprocessing**
-- **Model evaluation**
-- **Fine Tuning**
-- **Summary**
+- **Data Collection and Preprocessing**
+- **Model Selection and Evaluation**
+- **Hyperparameter Tuning**
+- **Results and Conclusion**
